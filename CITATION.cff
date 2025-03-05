@@ -1,6 +1,6 @@
-cff-version: 1.2.0
-message: "If you use this repository, please cite it as follows."
-title: "Your Repository Name"
+abstract: <p>Data sets and Jupyter notebooks with fits and error analysis for the
+  paper "Tethered Lipid Bilayers as a Platform for Studying the Mechanosensitive Ion
+  Channel MscL".</p>
 authors:
   - family-names: "Ayscough"
     given-names: "Sophie E."
@@ -27,15 +27,21 @@ authors:
     given-names: "Simon"
     orcid: "0000-0001-9547-5305"
     affiliation: "School of Physics & Astronomy, University of Edinburgh"
-
-abstract: "This repository contains data files and analysis scripts related to [your project]."
+cff-version: 1.2.0
+date-released: '2025-03-05'
+doi: 10.5281/zenodo.14975055
 keywords:
-  - neutron reflectometry
-  - data analysis
-  - soft matter
-  - [other relevant keywords]
-repository-code: "https://github.com/your-username/your-repository"
-version: "1.0.0"
-date-released: "2025-03-05"
+- mesh:D007473
+- Ion Channels
+- neutron reflectometry
+- mesh:D000089882
+- Antimicrobial Peptides
+license:
+- cc-by-4.0
+title: Tethered Lipid Bilayers as a Platform for Studying the Mechanosensitive Ion
+  Channel MscL
+type: dataset
+
+repository-code: "https://github.com/maxskoda/MscL_tether_NR"
 license: "MIT"  # (or another license like Apache-2.0, GPL-3.0)
 doi: "10.5281/zenodo.XXXXXXX"  # (If archived on Zenodo)
