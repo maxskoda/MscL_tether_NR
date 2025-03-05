@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as follows."
+title: "Your Repository Name"
+authors:
+  - family-names: "Ayscough"
+    given-names: "Sophie E."
+    orcid: "0000-0003-1609-5932"
+    affiliation: "School of Physics & Astronomy, University of Edinburgh; Lund University"
+  - family-names: "Skoda"
+    given-names: "Maximilian W. A."
+    orcid: "0000-0003-0086-2965"
+    affiliation: "ISIS Neutron and Muon Source, Rutherford Appleton Laboratory"
+    email: "maximilian.skoda@stfc.ac.uk"
+  - family-names: "Doutch"
+    given-names: "James"
+    affiliation: "ISIS Neutron and Muon Source, Rutherford Appleton Laboratory"
+  - family-names: "Caruana"
+    given-names: "Andrew"
+    affiliation: "ISIS Neutron and Muon Source, Rutherford Appleton Laboratory"
+  - family-names: "Kinane"
+    given-names: "Christy"
+    affiliation: "ISIS Neutron and Muon Source, Rutherford Appleton Laboratory"
+  - family-names: "Clifton"
+    given-names: "Luke"
+    affiliation: "ISIS Neutron and Muon Source, Rutherford Appleton Laboratory"
+  - family-names: "Titmuss"
+    given-names: "Simon"
+    orcid: "0000-0001-9547-5305"
+    affiliation: "School of Physics & Astronomy, University of Edinburgh"
+
+abstract: "This repository contains data files and analysis scripts related to [your project]."
+keywords:
+  - neutron reflectometry
+  - data analysis
+  - soft matter
+  - [other relevant keywords]
+repository-code: "https://github.com/your-username/your-repository"
+version: "1.0.0"
+date-released: "2025-03-05"
+license: "MIT"  # (or another license like Apache-2.0, GPL-3.0)
+doi: "10.5281/zenodo.XXXXXXX"  # (If archived on Zenodo)
